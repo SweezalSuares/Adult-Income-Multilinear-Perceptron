@@ -1,0 +1,32 @@
+
+# Python virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (include only if you don't intend to upload them)
+# *.h5
+# *.keras
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+myenv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.vscode/
